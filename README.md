@@ -54,7 +54,7 @@ This application is released under the MIT License.
 If you have any questions or feedback, please contact:
 
 - Email: ngduy10102006@gmail.com  
-- GitHub: [https://github.com/yourusername/adb-app-remover](https://github.com/yourusername/adb-app-remover)
+
 
 ---
 

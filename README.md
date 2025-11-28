@@ -3,6 +3,7 @@
 A simple application to **list** and **uninstall** apps installed on your Android device via ADB (Android Debug Bridge).
 
 ---
+<img width="354" height="545" alt="{97EB9746-61AE-4D6F-B961-52782F9E7DA0}" src="https://github.com/user-attachments/assets/aa2a7647-bc85-4ae8-93b2-1567e7f1ab6e" />
 
 ## Features
 
@@ -59,3 +60,4 @@ If you have any questions or feedback, please contact:
 ---
 
 Thank you for using ADB App Remover!
+

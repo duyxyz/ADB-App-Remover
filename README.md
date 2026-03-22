@@ -48,16 +48,4 @@ A simple application to **list** and **uninstall** apps installed on your Androi
 
 This application is released under the MIT License.
 
----
-
-## Contact
-
-If you have any questions or feedback, please contact:
-
-- Email: ngduy10102006@gmail.com  
-
-
----
-
-Thank you for using ADB App Remover!
 

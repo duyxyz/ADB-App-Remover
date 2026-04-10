@@ -8,12 +8,13 @@
 
 Run instantly with npx:
 ```bash
-npx saca
+npx github:duyxyz/saca
 ```
 
 Install globally with npm:
 ```bash
-npm install -g saca
+npm install -g github:duyxyz/saca
+saca
 ```
 
 ---

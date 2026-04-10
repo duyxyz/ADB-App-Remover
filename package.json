@@ -1,10 +1,10 @@
 {
-  "name": "adb-app-remove",
+  "name": "saca",
   "version": "1.0.0",
   "description": "Interactive CLI tool to list and uninstall Android apps via ADB",
   "type": "module",
   "bin": {
-    "adb-app-remove": "./bin/cli.js"
+    "saca": "./bin/cli.js"
   },
   "files": [
     "bin/",

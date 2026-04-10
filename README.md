@@ -1,6 +1,6 @@
-# ADB App Remove
+# SACA (System Adb Cleaner Assistant)
 
-Interactive **CLI tool** to list and uninstall Android apps via ADB — runnable with a single `npx` command, no installation required.
+Interactive CLI tool to list and uninstall Android apps via ADB. Super fast, full-screen TUI.gle `npx` command, no installation required.
 
 ---
 

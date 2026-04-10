@@ -236,7 +236,7 @@ function summaryStats() {
 
 function renderLoading(width, height) {
   const rows = [];
-  rows.push(chalk.white.bold('ADB App Remove'));
+  rows.push(chalk.white.bold('SACA'));
   rows.push(chalk.dim('Full-screen ADB debloat session'));
   rows.push('');
   rows.push(chalk.cyan(state.message));
@@ -262,7 +262,7 @@ function renderHeader(width) {
   const deviceName = device ? [device.brand, device.model].filter(Boolean).join(' ').trim() : 'No device';
   const right = state.query ? chalk.yellow(`filter: ${state.query}`) : chalk.dim('filter: all');
   return [
-    line(width, chalk.white.bold('ADB App Remove'), chalk.dim('FULL SCREEN')),
+    line(width, chalk.white.bold('SACA'), chalk.dim('FULL SCREEN')),
     line(width, chalk.dim(deviceName || 'Unknown device'), right),
     fullWidthRule(width),
   ];
